@@ -10,3 +10,4 @@
 
 2. 유클리드 호제법
   + 두 수의 최대공약수 구하기: https://velog.io/@yerin4847/W1-유클리드-호제법
+  + 백준 1934번 최소공배수 : https://myjamong.tistory.com/138
