@@ -11,3 +11,6 @@
 2. 유클리드 호제법
   + 두 수의 최대공약수 구하기: https://velog.io/@yerin4847/W1-유클리드-호제법
   + 백준 1934번 최소공배수 : https://myjamong.tistory.com/138
+
+3. 에라토스테네스의 체
+ + 백준 1929번 소수 구하기 : https://velog.io/@max9106/Algorithm-에라토스테네스의-체
