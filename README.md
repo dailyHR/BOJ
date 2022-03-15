@@ -1,5 +1,7 @@
 #### 알고리즘 문제 풀이 
-출처 : https://www.acmicpc.net/
+출처
+1. https://www.acmicpc.net/
+2. https://youtu.be/m-9pAwq1o3w
 
 ------------
 
